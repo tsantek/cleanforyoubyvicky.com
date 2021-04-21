@@ -213,7 +213,7 @@ input.input100 {
 
 .s2-txt3 {
   font-family: Lato-Regular;
-  font-size: 14px;
+  font-size: 20px;
   line-height: 1.5;
   color: #999999;
 }
@@ -380,8 +380,11 @@ input.input100 {
   color: #fff;
 }
 .how1:hover {
-  background-color: #555555;
-  color: #fff;
+  opacity: 0.3;
+}
+
+.how2:hover {
+  opacity: 0.3;
 }
 
 /*---------------------------------------------*/
