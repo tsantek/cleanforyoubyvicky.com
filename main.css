@@ -1,5 +1,5 @@
 body {
-    background: #00091B;
+    background: #B18593;
     color: #fff;
   }
   
@@ -33,10 +33,11 @@ body {
     margin-bottom: 0;
     line-height: 1;
     font-weight: 700;
+    text-align: center;
   }
   
   .dot {
-    color: #4FEBFE;
+    color: #FADC79;
   }
   
   p {
