@@ -417,7 +417,10 @@ input.input100 {
   height: 100%;
   top: 0;
   left: 0;
-  background-color: rgba(0,0,0,0.8);
+  /* background-color: rgba(0,0,0,0.8); */
+  background-color: #B18593;
+  /* background-image: url('../images/logo.png'); */
+  /* background: no-repeat; */
 }
 
 .overlay1::after {
@@ -644,4 +647,17 @@ input.input100 {
   .w-full-ssm {width: 100%;}
   /*---------------------------------------------*/
 
+}
+
+
+.intro{
+  text-align:center; 
+  font-size: 30px;
+  background: -webkit-linear-gradient(#fadc79, #fadc90);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+a:hover{
+  color: #fadc90;
 }
